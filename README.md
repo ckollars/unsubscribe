@@ -1,6 +1,5 @@
-# unsubscribe
+unsubscribe
 ---
-My general list of unsubcribing
 
 I'm just making a list of email subscriptions that I unscribe and dates to see if they really do unsubscribe me.
 
