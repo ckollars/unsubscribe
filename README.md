@@ -9,3 +9,7 @@ I'm just making a list of email subscriptions that I unscribe and dates to see i
 * Match.com - June 6, 2016 but pretty sure I've opted out many of times in the past.
 * Ubi.com - June 6, 2016
 * DavidKinde.com - June 6, 2016
+* GearScan.com - June 6, 2016
+* TechOmaha - June 6, 2016
+* May 1st Reboot - June 6, 2016
+* Omaha Gives! donors - June 6, 2016
