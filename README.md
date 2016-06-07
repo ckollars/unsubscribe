@@ -5,3 +5,4 @@ I'm just making a list of email subscriptions that I unscribe and dates to see i
 
 * REI - June 6, 2016
 * Netflix - June 6, 2016
+* Hulu - Checked again and suppose to be unsubscribed but still receiving them.
