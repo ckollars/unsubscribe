@@ -6,8 +6,10 @@ I'm just making a list of email subscriptions that I unscribe and dates to see i
 * REI - June 6, 2016
 * Netflix - June 6, 2016
 * Hulu - Checked again and suppose to be unsubscribed but still receiving them.
+  * July 13, 2016 
 * Match.com - June 6, 2016 but pretty sure I've opted out many of times in the past.
 * Ubi.com - June 6, 2016
+  * July 13, 2016
 * DavidKinde.com - June 6, 2016
 * GearScan.com - June 6, 2016
 * TechOmaha - June 6, 2016
@@ -19,3 +21,7 @@ I'm just making a list of email subscriptions that I unscribe and dates to see i
 * Evanto Market - June 6, 2016
 * eharmony - June 6, 2016
 * Backblaze - June 7, 2016
+* USBC - July 18, 2016
+* Flywheel - July 18, 2016
+* Spotify - July 18, 2016
+* Southwest - July 18, 2016
