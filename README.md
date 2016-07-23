@@ -25,3 +25,4 @@ I'm just making a list of email subscriptions that I unscribe and dates to see i
 * Flywheel - July 18, 2016
 * Spotify - July 18, 2016
 * Southwest - July 18, 2016
+* Yelp - July 23, 2016
