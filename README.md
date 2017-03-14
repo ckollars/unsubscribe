@@ -26,3 +26,5 @@ I'm just making a list of email subscriptions that I unscribe and dates to see i
 * Spotify - July 18, 2016
 * Southwest - July 18, 2016
 * Yelp - July 23, 2016
+* Linkedin - March 13, 2017
+* Paypal - March 13, 2017
